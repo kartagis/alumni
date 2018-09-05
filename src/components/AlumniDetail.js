@@ -32,6 +32,7 @@ const styles = {
     height: 85,
     width: 150,
     margin: 'auto',
+    alignItems: 'center'
   },
   textStyle: {
     fontWeight: 'bold',
